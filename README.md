@@ -20,10 +20,10 @@
 
 Apaixonado por tecnologia, design e tudo que envolva criatividade e desafios!
  
-Sou Analista de Marketing com grande paixão por desenvolvimento de software. Meu projeto mais recente e significativo foi a criação do site institucional da Originá Exclusive, onde apliquei tecnologias como JavaScript, HTML e CSS para desenvolver uma plataforma exclusiva, totalmente responsiva, focada na melhor experiência de usuário e com um design único.
+💻 Sou Analista de Marketing com paixão por desenvolvimento de software. Meu projeto mais recente foi a criação do site da Originá Exclusive, utilizando JavaScript, HTML e CSS para desenvolver uma plataforma exclusiva e responsiva, focada na melhor experiência de usuário.
 
-Com objetivos voltados para o empreendedorismo e a gestão de equipes no setor de software, estou sempre buscando novas maneiras de integrar criatividade com tecnologia para entregar soluções que atendam as necessidades dos clientes, garantindo inovação e qualidade.
+🚀 Busco o empreendedorismo e a gestão de equipes no setor de software, sempre integrando criatividade e tecnologia para entregar soluções inovadoras e de qualidade.
 
-Atualmente, estou cursando Engenharia de Software na Unicesumar, onde exerço projetos relevantes e aprendi habilidades fundamentais como linguagens de programação (C), técnicas de programação, engenharia de software e lógica de programação com Portugol. Tenho interesse crescente em tecnologias de dados e continuo explorando novos campos para evoluir como profissional.
+🎓 Cursando Engenharia de Software na Unicesumar, aprendi habilidades como C, técnicas de programação e lógica com Portugol. Tenho interesse em tecnologias de dados e estou sempre explorando novos campos.
 
-Destaque-me pela criatividade em design e jornada do cliente, sempre focando em inovações que melhorem a experiência e tragam valor agregado aos projetos.
+✨ Destaco-me pela criatividade em design e pela busca por inovações que agreguem valor aos projetos.
