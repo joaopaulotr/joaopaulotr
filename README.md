@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jaotr)
 
 ![João Paulo Most Used Langueages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulotr&theme=dracula)
-
+![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 ## Tecnologias que eu uso no meu dia a dia!
 
 <div style="display: inline_block">
