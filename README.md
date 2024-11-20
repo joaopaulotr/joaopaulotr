@@ -20,10 +20,10 @@
 
 Apaixonado por tecnologia, design e tudo que envolva criatividade e desafios!
  
-💻 Sou Analista de Marketing com paixão por desenvolvimento de software. Meu projeto mais recente foi a criação do site da Originá Exclusive, utilizando JavaScript, HTML e CSS para desenvolver uma plataforma exclusiva e responsiva, focada na melhor experiência de usuário.
+💻 DevOps Júnior na PacSolutions – uma empresa especializada no desenvolvimento de softwares, com foco em soluções inovadoras para o setor de consórcios. Atuo na criação e manutenção de interfaces web utilizando HTML, CSS, JavaScript e Bootstrap, garantindo que cada projeto ofereça uma experiência intuitiva, responsiva e centrada no usuário.
 
-🚀 Busco o empreendedorismo e a gestão de equipes no setor de software, sempre integrando criatividade e tecnologia para entregar soluções inovadoras e de qualidade.
+🚀 Comprometido com a qualidade e a inovação, busco aplicar minhas habilidades técnicas e minha criatividade para entregar soluções que atendam às necessidades específicas de nossos clientes. Minha abordagem é voltada para a resolução de problemas de forma eficaz, com um olhar atento aos detalhes e à usabilidade.
 
-🎓 Cursando Engenharia de Software na Unicesumar, aprendi habilidades como C, técnicas de programação e lógica com Portugol. Tenho interesse em tecnologias de dados e estou sempre explorando novos campos.
+🎓 Atualmente, sou estudante de Engenharia de Software na Unicesumar, onde desenvolvi uma base sólida em lógica de programação (C). Estou em constante atualização para aprimorar minhas habilidades e explorar novas tecnologias, mantendo-me alinhado às tendências e melhores práticas do mercado de software.
 
-✨ Destaco-me pela criatividade em design e pela busca por inovações que agreguem valor aos projetos.
+✨ Sou motivado por desafios e pela oportunidade de criar soluções de impacto. Com uma visão orientada ao cliente e ao crescimento profissional, estou sempre em busca de agregar valor aos projetos em que participo, colaborando em equipe e utilizando metodologias ágeis para garantir entregas de alta qualidade.
