@@ -20,7 +20,7 @@
 
 Apaixonado por tecnologia, design e tudo que envolva criatividade e desafios!
  
-💻 DevOps Júnior na PacSolutions – uma empresa especializada no desenvolvimento de softwares, com foco em soluções inovadoras para o setor de consórcios. Atuo na criação e manutenção de interfaces web utilizando HTML, CSS, JavaScript e Bootstrap, garantindo que cada projeto ofereça uma experiência intuitiva, responsiva e centrada no usuário.
+💻 Desenvolvedor Júnior na PacSolutions – uma empresa especializada no desenvolvimento de softwares, com foco em soluções inovadoras para o setor de consórcios. Atuo na criação e manutenção de interfaces web utilizando HTML, CSS, JavaScript e Bootstrap, garantindo que cada projeto ofereça uma experiência intuitiva, responsiva e centrada no usuário.
 
 🚀 Comprometido com a qualidade e a inovação, busco aplicar minhas habilidades técnicas e minha criatividade para entregar soluções que atendam às necessidades específicas de nossos clientes. Minha abordagem é voltada para a resolução de problemas de forma eficaz, com um olhar atento aos detalhes e à usabilidade.
 
