@@ -8,4 +8,4 @@
 <p>🌍 English Level: B2 (Upper Intermediate)</p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,postman,c,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,python,postman,c,figma,docker)](https://skillicons.dev)
